@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+.sectionclass{
+    float: left;
+    margin-left: 15px;
+    width: 40%;
+    }
+.my-photo{
+    width: 200px;
+    height: auto;
+}
+footer{
+    clear: both;
+    margin-left: 500px;
+}
